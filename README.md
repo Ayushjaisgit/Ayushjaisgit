@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+<!--   ![image]({https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white}) -->
+ - 🔭 I’m currently working on developing my skills
+ - 🌱 I’m currently learning Backend Developemt
+ - 👯 I’m looking to collaborate on web projects  
+ - 💬 Ask me about anything i'll be happy to help you out
+ - ⚡ Fun fact - Every developer loves dark themes 
