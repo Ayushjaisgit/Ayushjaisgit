@@ -23,3 +23,5 @@ Here are some ideas to get you started:
  - ⚡ Fun fact - Every developer loves dark themes 
 
 ![](https://komarev.com/ghpvc/?username=Ayushjaisgit)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushjaisgit)](https://github.com/Ayushjaisgit/github-readme-stats)
