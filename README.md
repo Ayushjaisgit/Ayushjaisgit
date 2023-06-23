@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-  ![image]({https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white}) 
  - 🔭 I’m currently working on developing my skills
  - 🌱 I’m currently learning AWS (Amazon Web Services)
  - 👯 I’m looking to collaborate on web projects  
