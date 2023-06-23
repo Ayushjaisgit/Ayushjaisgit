@@ -21,3 +21,5 @@ Here are some ideas to get you started:
  - 👯 I’m looking to collaborate on web projects  
  - 💬 Ask me about anything i'll be happy to help you out
  - ⚡ Fun fact - Every developer loves dark themes 
+
+![](https://komarev.com/ghpvc/?username=Ayushjaisgit)
