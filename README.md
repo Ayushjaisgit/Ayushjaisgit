@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Ayushjaisgit)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushjaisgit&show_icons=true&theme=dark)](https://github.com/Ayushjaisgit/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushjaisgit&show_icons=true&theme=Gradient)](https://github.com/Ayushjaisgit/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushjaisgit&show_icons=true&theme=Gradient&layout=donut-vertical)](https://github.com/Ayushjaisgit/github-readme-stats)
