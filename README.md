@@ -17,10 +17,11 @@ Here are some ideas to get you started:
   
 <!--   ![image]({https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white}) -->
  - 🔭 I’m currently working on developing my skills
- - 🌱 I’m currently learning Backend Development
+ - 🌱 I’m currently learning About Amazon Web Services
  - 👯 I’m looking to collaborate on web projects  
  - 💬 Ask me about anything i'll be happy to help you out
- - ⚡ Fun fact - Every developer loves dark themes 
+ - ⚡ Fun fact - Every developer loves dark themes
+ - - 📫 How to reach me:![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 ![](https://komarev.com/ghpvc/?username=Ayushjaisgit)
 
