@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  - 🌱 I’m currently learning AWS (Amazon Web Services)
  - 👯 I’m looking to collaborate on web projects  
  - 💬 Ask me about anything i'll be happy to help you out
- - ⚡ Fun fact - Every developer loves dark them
+ - ⚡ Fun fact - 🌚 Life is too short to browse without dark mode
    
 
 ![](https://komarev.com/ghpvc/?username=Ayushjaisgit)
